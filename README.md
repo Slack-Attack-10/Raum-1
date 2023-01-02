@@ -6,6 +6,9 @@ Ubung 1
 - Nation. `Rumänisch`
 - Alt `31`
 - Jetz in Schule
+- Essen `Mici`
+- Farbe `Blau sidef`
+- Hobby `Progr. um IT`
 
 ## Andreas
 - Name: `Andreas`
