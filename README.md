@@ -5,5 +5,10 @@ Ubung 1
 - `marian`
 - Nation. `Rumena`
 - Alt `31`
-- Jetz in shulle
+- Jetz in Schule
 
+## Andreas
+- Name: `Andreas`
+- Nation.: `Kolumbianisch`
+- Alt `32`
+- Jetz in Schule
