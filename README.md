@@ -2,7 +2,7 @@
 Ubung 1
 
 ## Hallo World!! :
-- `marian`
+- Name: `marian`
 - Nation. `Rumena`
 - Alt `31`
 - Jetz in Schule
